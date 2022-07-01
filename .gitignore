@@ -1,0 +1,6 @@
+error.log
+request.log
+passwords
+.DS_STORE
+# Also, I can use regX like *.log (* means any file name ending with .log)
+#folder is also get ignore.
