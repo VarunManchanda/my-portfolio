@@ -10,12 +10,16 @@ bool findX(vector<int> &a, int x)
 
 int32_t main()
 {
-	int n,x;
-	cin >> n >> x;
-	vector<int> a(n);
-	for(int i=0; i<n; i++)
-		cin >> a[i];
-	bool isPresent = findX(a,x);
-	cout << isPresent << endl;
+	int t; cin >> t;
+	while(t--)
+	{
+		int n,x;
+		cin >> n >> x;
+		vector<int> a(n);
+		for(int i=0; i<n; i++)
+			cin >> a[i];
+		bool isPresent = findX(a,x);
+		cout << isPresent << endl;
+	}
 	return 0;
 }
