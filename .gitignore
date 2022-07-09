@@ -1,5 +1,6 @@
 error.log
 request.log
 .DS_STORE
+resources/
 # Also, I can use regX like *.log (* means any file name ending with .log)
 #folder is also get ignore.
