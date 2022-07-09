@@ -6,7 +6,7 @@ body
 .home
 {
     height: 100vh;
-    background-image: url(../img/my-portfolio-background-image.jpeg);
+    background-image: url(/resources/img/my-portfolio-background-image.jpeg);
     background-repeat: no-repeat;
     background-position:right bottom
     
