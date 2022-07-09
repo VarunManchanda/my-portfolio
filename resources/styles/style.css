@@ -1,0 +1,29 @@
+body 
+{
+    background-color: #1d3954;
+}
+
+.home
+{
+    height: 100vh;
+    background-image: url(/resources/img/my-portfolio-background-image.jpeg);
+    background-repeat: no-repeat;
+    background-position:right bottom
+    
+}
+
+.intro
+{
+    color: whitesmoke;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.name
+{
+    font-size: 2em;
+}
