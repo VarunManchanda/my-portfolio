@@ -1,7 +1,7 @@
 # This is My Portfolio Website
 
-Hi! My name is Varun Manchanda. <br>
-Working on this Project.
+Hello Everyone! <br>
+My name is Varun, and this is my Personal Website Repository.
 
 ## Contribute
 
